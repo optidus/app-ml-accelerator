@@ -31,7 +31,7 @@ application: ml-accelerator {
 }
 
 constant: CONNECTION_NAME {
-  value: "looker-private-demo"
+  value: "sudipto-google-trends"
   export: override_required
 }
 
