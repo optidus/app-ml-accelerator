@@ -31,7 +31,7 @@ application: ml-accelerator {
 }
 
 constant: CONNECTION_NAME {
-  value: "sudipto-google-trends"
+  value: "sudipto-bq-connection"
   export: override_required
 }
 
